@@ -88,7 +88,8 @@ function buy(id) {
 
 // Exercise 2
 function cleanCart() {
-
+cartList.length = 0
+console.log(cartList)
 }
 
 // Exercise 3
